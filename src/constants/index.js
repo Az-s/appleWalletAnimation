@@ -4,7 +4,7 @@ export const cards = [
     title: "Card #1",
     text: "loreersrser seresresr waeawe awe",
     style: {
-      background: "blue",
+      background: "#89CFF0",
       color: 'white',
     }
   },

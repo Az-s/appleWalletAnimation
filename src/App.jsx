@@ -6,7 +6,6 @@ const App = () => {
 
   return (
     <>
-        <h1>Wallet</h1>
         <ScrollAnimation /> 
         <Cards />
     </>
